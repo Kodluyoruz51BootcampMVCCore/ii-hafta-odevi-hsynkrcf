@@ -1,0 +1,65 @@
+C:\Users\rgnya\source\repos\Authentication Examples\Individual User Account Auth\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\rgnya\source\repos\Authentication Examples\Individual User Account Auth\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\rgnya\source\repos\Authentication Examples\Individual User Account Auth\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\rgnya\source\repos\Authentication Examples\Individual User Account Auth\bin\Debug\netcoreapp3.1\Individual User Account Auth.StaticWebAssets.xml
+C:\Users\rgnya\source\repos\Authentication Examples\Individual User Account Auth\bin\Debug\netcoreapp3.1\Individual User Account Auth.exe
+C:\Users\rgnya\source\repos\Authentication Examples\Individual User Account Auth\bin\Debug\netcoreapp3.1\Individual User Account Auth.deps.json
+C:\Users\rgnya\source\repos\Authentication Examples\Individual User Account Auth\bin\Debug\netcoreapp3.1\Individual User Account Auth.runtimeconfig.json
+C:\Users\rgnya\source\repos\Authentication Examples\Individual User Account Auth\bin\Debug\netcoreapp3.1\Individual User Account Auth.runtimeconfig.dev.json
+C:\Users\rgnya\source\repos\Authentication Examples\Individual User Account Auth\bin\Debug\netcoreapp3.1\Individual User Account Auth.dll
+C:\Users\rgnya\source\repos\Authentication Examples\Individual User Account Auth\bin\Debug\netcoreapp3.1\Individual User Account Auth.pdb
+C:\Users\rgnya\source\repos\Authentication Examples\Individual User Account Auth\bin\Debug\netcoreapp3.1\Individual User Account Auth.Views.dll
+C:\Users\rgnya\source\repos\Authentication Examples\Individual User Account Auth\bin\Debug\netcoreapp3.1\Individual User Account Auth.Views.pdb
+C:\Users\rgnya\source\repos\Authentication Examples\Individual User Account Auth\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.dll
+C:\Users\rgnya\source\repos\Authentication Examples\Individual User Account Auth\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\rgnya\source\repos\Authentication Examples\Individual User Account Auth\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.Views.V3.dll
+C:\Users\rgnya\source\repos\Authentication Examples\Individual User Account Auth\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.Views.V4.dll
+C:\Users\rgnya\source\repos\Authentication Examples\Individual User Account Auth\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.dll
+C:\Users\rgnya\source\repos\Authentication Examples\Individual User Account Auth\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\rgnya\source\repos\Authentication Examples\Individual User Account Auth\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\Users\rgnya\source\repos\Authentication Examples\Individual User Account Auth\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\rgnya\source\repos\Authentication Examples\Individual User Account Auth\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\rgnya\source\repos\Authentication Examples\Individual User Account Auth\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\rgnya\source\repos\Authentication Examples\Individual User Account Auth\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\rgnya\source\repos\Authentication Examples\Individual User Account Auth\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\rgnya\source\repos\Authentication Examples\Individual User Account Auth\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\rgnya\source\repos\Authentication Examples\Individual User Account Auth\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\rgnya\source\repos\Authentication Examples\Individual User Account Auth\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\rgnya\source\repos\Authentication Examples\Individual User Account Auth\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\rgnya\source\repos\Authentication Examples\Individual User Account Auth\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\rgnya\source\repos\Authentication Examples\Individual User Account Auth\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\rgnya\source\repos\Authentication Examples\Individual User Account Auth\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\rgnya\source\repos\Authentication Examples\Individual User Account Auth\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\rgnya\source\repos\Authentication Examples\Individual User Account Auth\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\rgnya\source\repos\Authentication Examples\Individual User Account Auth\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\rgnya\source\repos\Authentication Examples\Individual User Account Auth\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\rgnya\source\repos\Authentication Examples\Individual User Account Auth\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\rgnya\source\repos\Authentication Examples\Individual User Account Auth\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\rgnya\source\repos\Authentication Examples\Individual User Account Auth\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\rgnya\source\repos\Authentication Examples\Individual User Account Auth\obj\Debug\netcoreapp3.1\Individual User Account Auth.csprojAssemblyReference.cache
+C:\Users\rgnya\source\repos\Authentication Examples\Individual User Account Auth\obj\Debug\netcoreapp3.1\staticwebassets\Individual User Account Auth.StaticWebAssets.Manifest.cache
+C:\Users\rgnya\source\repos\Authentication Examples\Individual User Account Auth\obj\Debug\netcoreapp3.1\staticwebassets\Individual User Account Auth.StaticWebAssets.xml
+C:\Users\rgnya\source\repos\Authentication Examples\Individual User Account Auth\obj\Debug\netcoreapp3.1\Individual User Account Auth.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\rgnya\source\repos\Authentication Examples\Individual User Account Auth\obj\Debug\netcoreapp3.1\Individual User Account Auth.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\rgnya\source\repos\Authentication Examples\Individual User Account Auth\obj\Debug\netcoreapp3.1\Individual User Account Auth.RazorAssemblyInfo.cache
+C:\Users\rgnya\source\repos\Authentication Examples\Individual User Account Auth\obj\Debug\netcoreapp3.1\Individual User Account Auth.RazorAssemblyInfo.cs
+C:\Users\rgnya\source\repos\Authentication Examples\Individual User Account Auth\obj\Debug\netcoreapp3.1\Individual User Account Auth.AssemblyInfoInputs.cache
+C:\Users\rgnya\source\repos\Authentication Examples\Individual User Account Auth\obj\Debug\netcoreapp3.1\Individual User Account Auth.AssemblyInfo.cs
+C:\Users\rgnya\source\repos\Authentication Examples\Individual User Account Auth\obj\Debug\netcoreapp3.1\Individual User Account Auth.TagHelpers.input.cache
+C:\Users\rgnya\source\repos\Authentication Examples\Individual User Account Auth\obj\Debug\netcoreapp3.1\Individual User Account Auth.TagHelpers.output.cache
+C:\Users\rgnya\source\repos\Authentication Examples\Individual User Account Auth\obj\Debug\netcoreapp3.1\Individual User Account Auth.RazorCoreGenerate.cache
+C:\Users\rgnya\source\repos\Authentication Examples\Individual User Account Auth\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\_ViewStart.cshtml.g.cs
+C:\Users\rgnya\source\repos\Authentication Examples\Individual User Account Auth\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\rgnya\source\repos\Authentication Examples\Individual User Account Auth\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\rgnya\source\repos\Authentication Examples\Individual User Account Auth\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\rgnya\source\repos\Authentication Examples\Individual User Account Auth\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\rgnya\source\repos\Authentication Examples\Individual User Account Auth\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_LoginPartial.cshtml.g.cs
+C:\Users\rgnya\source\repos\Authentication Examples\Individual User Account Auth\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\rgnya\source\repos\Authentication Examples\Individual User Account Auth\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\rgnya\source\repos\Authentication Examples\Individual User Account Auth\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\rgnya\source\repos\Authentication Examples\Individual User Account Auth\obj\Debug\netcoreapp3.1\Individual User Account Auth.RazorTargetAssemblyInfo.cache
+C:\Users\rgnya\source\repos\Authentication Examples\Individual User Account Auth\obj\Debug\netcoreapp3.1\Individual User Account Auth.RazorTargetAssemblyInfo.cs
+C:\Users\rgnya\source\repos\Authentication Examples\Individual User Account Auth\obj\Debug\netcoreapp3.1\Individual User Account Auth.Views.pdb
+C:\Users\rgnya\source\repos\Authentication Examples\Individual User Account Auth\obj\Debug\netcoreapp3.1\Individual User Account Auth.csproj.CopyComplete
+C:\Users\rgnya\source\repos\Authentication Examples\Individual User Account Auth\obj\Debug\netcoreapp3.1\Individual User Account Auth.dll
+C:\Users\rgnya\source\repos\Authentication Examples\Individual User Account Auth\obj\Debug\netcoreapp3.1\Individual User Account Auth.pdb

@@ -1,0 +1,48 @@
+C:\Users\rgnya\source\repos\Authentication Examples\Work or School Accounts Auth\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\rgnya\source\repos\Authentication Examples\Work or School Accounts Auth\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\rgnya\source\repos\Authentication Examples\Work or School Accounts Auth\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\rgnya\source\repos\Authentication Examples\Work or School Accounts Auth\bin\Debug\netcoreapp3.1\Work or School Accounts Auth.exe
+C:\Users\rgnya\source\repos\Authentication Examples\Work or School Accounts Auth\bin\Debug\netcoreapp3.1\Work or School Accounts Auth.deps.json
+C:\Users\rgnya\source\repos\Authentication Examples\Work or School Accounts Auth\bin\Debug\netcoreapp3.1\Work or School Accounts Auth.runtimeconfig.json
+C:\Users\rgnya\source\repos\Authentication Examples\Work or School Accounts Auth\bin\Debug\netcoreapp3.1\Work or School Accounts Auth.runtimeconfig.dev.json
+C:\Users\rgnya\source\repos\Authentication Examples\Work or School Accounts Auth\bin\Debug\netcoreapp3.1\Work or School Accounts Auth.dll
+C:\Users\rgnya\source\repos\Authentication Examples\Work or School Accounts Auth\bin\Debug\netcoreapp3.1\Work or School Accounts Auth.pdb
+C:\Users\rgnya\source\repos\Authentication Examples\Work or School Accounts Auth\bin\Debug\netcoreapp3.1\Work or School Accounts Auth.Views.dll
+C:\Users\rgnya\source\repos\Authentication Examples\Work or School Accounts Auth\bin\Debug\netcoreapp3.1\Work or School Accounts Auth.Views.pdb
+C:\Users\rgnya\source\repos\Authentication Examples\Work or School Accounts Auth\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.AzureAD.UI.Views.dll
+C:\Users\rgnya\source\repos\Authentication Examples\Work or School Accounts Auth\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.AzureAD.UI.dll
+C:\Users\rgnya\source\repos\Authentication Examples\Work or School Accounts Auth\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\rgnya\source\repos\Authentication Examples\Work or School Accounts Auth\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.OpenIdConnect.dll
+C:\Users\rgnya\source\repos\Authentication Examples\Work or School Accounts Auth\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\rgnya\source\repos\Authentication Examples\Work or School Accounts Auth\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\rgnya\source\repos\Authentication Examples\Work or School Accounts Auth\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\rgnya\source\repos\Authentication Examples\Work or School Accounts Auth\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\rgnya\source\repos\Authentication Examples\Work or School Accounts Auth\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\rgnya\source\repos\Authentication Examples\Work or School Accounts Auth\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\rgnya\source\repos\Authentication Examples\Work or School Accounts Auth\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\rgnya\source\repos\Authentication Examples\Work or School Accounts Auth\obj\Debug\netcoreapp3.1\Work or School Accounts Auth.csprojAssemblyReference.cache
+C:\Users\rgnya\source\repos\Authentication Examples\Work or School Accounts Auth\obj\Debug\netcoreapp3.1\staticwebassets\Work or School Accounts Auth.StaticWebAssets.Manifest.cache
+C:\Users\rgnya\source\repos\Authentication Examples\Work or School Accounts Auth\obj\Debug\netcoreapp3.1\staticwebassets\Work or School Accounts Auth.StaticWebAssets.xml
+C:\Users\rgnya\source\repos\Authentication Examples\Work or School Accounts Auth\obj\Debug\netcoreapp3.1\Work or School Accounts Auth.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\rgnya\source\repos\Authentication Examples\Work or School Accounts Auth\obj\Debug\netcoreapp3.1\Work or School Accounts Auth.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\rgnya\source\repos\Authentication Examples\Work or School Accounts Auth\obj\Debug\netcoreapp3.1\Work or School Accounts Auth.RazorAssemblyInfo.cache
+C:\Users\rgnya\source\repos\Authentication Examples\Work or School Accounts Auth\obj\Debug\netcoreapp3.1\Work or School Accounts Auth.RazorAssemblyInfo.cs
+C:\Users\rgnya\source\repos\Authentication Examples\Work or School Accounts Auth\obj\Debug\netcoreapp3.1\Work or School Accounts Auth.AssemblyInfoInputs.cache
+C:\Users\rgnya\source\repos\Authentication Examples\Work or School Accounts Auth\obj\Debug\netcoreapp3.1\Work or School Accounts Auth.AssemblyInfo.cs
+C:\Users\rgnya\source\repos\Authentication Examples\Work or School Accounts Auth\obj\Debug\netcoreapp3.1\Work or School Accounts Auth.TagHelpers.input.cache
+C:\Users\rgnya\source\repos\Authentication Examples\Work or School Accounts Auth\obj\Debug\netcoreapp3.1\Work or School Accounts Auth.TagHelpers.output.cache
+C:\Users\rgnya\source\repos\Authentication Examples\Work or School Accounts Auth\obj\Debug\netcoreapp3.1\Work or School Accounts Auth.RazorCoreGenerate.cache
+C:\Users\rgnya\source\repos\Authentication Examples\Work or School Accounts Auth\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\rgnya\source\repos\Authentication Examples\Work or School Accounts Auth\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\rgnya\source\repos\Authentication Examples\Work or School Accounts Auth\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\rgnya\source\repos\Authentication Examples\Work or School Accounts Auth\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\rgnya\source\repos\Authentication Examples\Work or School Accounts Auth\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_LoginPartial.cshtml.g.cs
+C:\Users\rgnya\source\repos\Authentication Examples\Work or School Accounts Auth\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\rgnya\source\repos\Authentication Examples\Work or School Accounts Auth\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\rgnya\source\repos\Authentication Examples\Work or School Accounts Auth\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\rgnya\source\repos\Authentication Examples\Work or School Accounts Auth\obj\Debug\netcoreapp3.1\Work or School Accounts Auth.RazorTargetAssemblyInfo.cache
+C:\Users\rgnya\source\repos\Authentication Examples\Work or School Accounts Auth\obj\Debug\netcoreapp3.1\Work or School Accounts Auth.RazorTargetAssemblyInfo.cs
+C:\Users\rgnya\source\repos\Authentication Examples\Work or School Accounts Auth\obj\Debug\netcoreapp3.1\Work or School Accounts Auth.Views.pdb
+C:\Users\rgnya\source\repos\Authentication Examples\Work or School Accounts Auth\obj\Debug\netcoreapp3.1\Work or School Accounts Auth.csproj.CopyComplete
+C:\Users\rgnya\source\repos\Authentication Examples\Work or School Accounts Auth\obj\Debug\netcoreapp3.1\Work or School Accounts Auth.dll
+C:\Users\rgnya\source\repos\Authentication Examples\Work or School Accounts Auth\obj\Debug\netcoreapp3.1\Work or School Accounts Auth.pdb
