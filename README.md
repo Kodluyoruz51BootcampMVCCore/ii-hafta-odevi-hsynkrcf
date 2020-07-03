@@ -14,11 +14,11 @@
 
 ## 7 Haziran Ödevleri:
 - [x] Razor Pages Nedir?
-- [ ] 4 Farklı Projede Yapılacak *Change Authentication* :
-  - [ ] No Authentication
-  - [ ] Individual User Account
-  - [ ] Work or School Accounts
-  - [ ] Windows Authentication seçili projeler oluşturulmalı
+- [x] 4 Farklı Projede Yapılacak *Change Authentication* :
+  - [x] No Authentication
+  - [x] Individual User Account
+  - [x] Work or School Accounts
+  - [x] Windows Authentication seçili projeler oluşturulmalı
 - [x] Ayarlardaki Output kısmındaki Console Application nedir? diğerleri arasında fark nedir? [Ders Akışındaki 6. Madde'yi inceleyin.] ( araştırma ödev verildi ).
 - [x] c# json serialize / deserialize
 - [x] MVC vs MVVM
