@@ -1,3 +1,21 @@
+# GİTHUB
+
+### Github Nedir?
+
+GitHub, git yazılımı ile entegre olmuş bir depolama alanıdır. Git ile GitHub birbirine karıştırmayın lütfen. Git versiyon kontrol sistemidir. GitHub sayesinde dünyanın çeşitli ülkelerinden, bu ülkelerin bazı yerlerinden, projenize farklı bir kaç kişi ekleyerek takım çalışması yapabilirsiniz. Ayrıca, GitHub ile dünya üzerinde projenizin herkes tarafından görülmesini, değerlendirilmesi sağlayabilirsiniz. GitHub üzerinde paylaşılan kodlar ile kendinizi geliştirebilirsiniz.
+
+### GitLab Nedir?
+
+GitLab, GitHub’ın kullanıcılara sağladığı işlevlerin tamamını sunan bir Git servisidir.Açık kaynak(open source) projelerinizi bu servis üzerinde ücretsiz bir şekilde oluşturabilir ve yönetebilirsiniz. GitLab daha çok firmalarda tercih ediliyor çünkü : Ücretsiz sürümünde kendi sunucularınıza kurarak sadece kurum içi kullanıcıların erişebileceği GitLab servisi hizmeti bulunmaktadır.
+
+### Bitbucket Nedir?
+
+Bitbucket, Git veya Mercurial sürüm kontrol sistemi kullanan projeler için bir ağ depolama servisi olup Django kullanılarak Python programlama dili ile yazılmıştır. Bitbucket, hem ticari planlarla hem de ücretsiz hesaplarla kullanılabilir.
+
+### GitKraken Nedir?
+
+Axosoft’un ürünü olan git projelerin yönetilmesinin kolaylaştıran ve branch’ların görsel olarak görünmesini sağlayan masaüstü uygulamasıdır. [www.gitkraken.com](http://www.gitkraken.com/) adresinden yazılıma ulaşılabilir. Yazılımı kişisel projelerde ve open-source projelerde kullanmak ücretsizdir.
+
 # GitFlow vs GitHub Flow
 
 GIT'de bir yazılımı yönetmenin başlıca yolları şunlardır: Git Akışı ve Github Akışı.
@@ -35,3 +53,4 @@ The main concepts behind the Github flow are:
 
 
 KAYNAK : https://lucamezzalira.com/2014/03/10/git-flow-vs-github-flow/
+KAYNAK : https://www.tolgacibikci.com/git-nedir-nasil-kurulur/
