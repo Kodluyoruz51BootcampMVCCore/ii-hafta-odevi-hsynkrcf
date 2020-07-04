@@ -50,7 +50,7 @@ https://developer.github.com/v3/issues/
 
 ## ASP.NET BoilerPlate
 
-SP.NET Boilerplate, “her şirket tek tek uğraşmasın, tüm .NET developer’lar için ortak bir framework geliştirelim” hedefiyle ortaya çıkmış açık kaynak kodlu, iyi dokümante edilmiş bir projedir. Sadece framework değil, modern uygulamalar için DDD(Domain Driven Design) tekniklerini baz alan sağlam bir mimari ve model sunar.
+ASP.NET Boilerplate, “her şirket tek tek uğraşmasın, tüm .NET developer’lar için ortak bir framework geliştirelim” hedefiyle ortaya çıkmış açık kaynak kodlu, iyi dokümante edilmiş bir projedir. Sadece framework değil, modern uygulamalar için DDD(Domain Driven Design) tekniklerini baz alan sağlam bir mimari ve model sunar.
 - Şirketin yan ürünleri için --> https://volosoft.com/open-source
 
 ## HackerRank 
