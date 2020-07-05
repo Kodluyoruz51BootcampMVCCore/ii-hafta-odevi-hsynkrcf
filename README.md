@@ -102,3 +102,5 @@ PM’in en büyük avantajı, hiç bir View’e ihtiyaç duymadan bir View’in 
 ### MVU (Model-View-Update)
 Buradaki siteyi ziyaret edebilirsiniz.
 - https://thomasbandt.com/model-view-update
+
+<p align="center"><strong>Hüseyin Karacif tarafından :heart: ile hazırlandı.</strong></p>
